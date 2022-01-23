@@ -1,6 +1,6 @@
 # Hey there, I am *Heck Codes*
 
-A CSE graduate passionate about programming and app development.
+A CSE under-graduate passionate about programming and app development.
 
 ## Github stats
 
