@@ -14,7 +14,7 @@ A CSE under-graduate passionate about programming and app development.
 
 ## Featured repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=tasks-public&show_owner=true&theme=tokyonight)](https://github.com/Heckcodes/tasks-public)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=snake&show_owner=true&theme=tokyonight)](https://github.com/Heckcodes/snake)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=game2048&show_owner=true&theme=tokyonight)](https://github.com/Heckcodes/game2048)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=wave&show_owner=true&theme=tokyonight)](https://github.com/Heckcodes/wave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=tasks-public&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/tasks-public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=snake&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/snake)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=game2048&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/game2048)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeckCodes&repo=wave&show_owner=false&theme=tokyonight)](https://github.com/Heckcodes/wave)
