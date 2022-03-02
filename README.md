@@ -2,6 +2,8 @@
 
 A CSE under-graduate passionate about programming and app development :)
 
+❤️ Check out the latest app release for Tasks. [Click Here](https://github.com/HeckCodes/tasks-public/releases/tag/v1.0.0)
+
 ## Github stats
 
 <img src='https://komarev.com/ghpvc/?username=HeckCodes&color=blueviolet' />
