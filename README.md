@@ -6,6 +6,8 @@ A CSE under-graduate passionate about programming and app development :)
 
 <img src='https://komarev.com/ghpvc/?username=HeckCodes&color=blueviolet' />
 
+[![Instagram](https://img.shields.io/badge/Instagram-7D4698?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insides_voice/)
+
 ![HeckCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeckCodes&count_private=true&show_icons=true&theme=tokyonight)
 <p></p>
 
