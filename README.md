@@ -4,7 +4,7 @@ A CSE under-graduate passionate about programming and app development :)
 
 ## Github stats
 
-<img src='https://komarev.com/ghpvc/?username=HeckCodes' />
+<img src='https://komarev.com/ghpvc/?username=HeckCodes&color=blueviolet' />
 
 ![HeckCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeckCodes&count_private=true&show_icons=true&theme=tokyonight)
 <p></p>
