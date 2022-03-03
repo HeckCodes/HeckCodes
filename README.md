@@ -4,19 +4,14 @@ A CSE under-graduate passionate about programming and app development :)
 
 ❤️ Check out the latest app release for Tasks. [Click Here](https://github.com/HeckCodes/tasks-public/releases/tag/v1.0.0)
 
+[![Instagram](https://img.shields.io/badge/Instagram-7D4698?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insides_voice/)
 ## Github stats
 
 <img src='https://komarev.com/ghpvc/?username=HeckCodes&color=blueviolet' />
 
 ![HeckCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeckCodes&count_private=true&show_icons=true&theme=tokyonight)
-<p></p>
-
 [![HeckCodes's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HeckCodes&theme=tokyonight)](https://git.io/streak-stats)
-<p></p>
 
-![HeckCodes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeckCodes&langs_count=10&&theme=tokyonight&hide=starlark,ruby)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=HeckCodes&bg_color=1a1b26&color=34548a&line=2ac3de&point=b4f9f8">
 
 ## Featured repositories
 
