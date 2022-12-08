@@ -1,6 +1,6 @@
 # Hey there, I am *Heck Codes*
 
-A CSE undergraduate passionate about programming and app development :)
+A CSE undergraduate passionate about programming and app development :) [*RESUME*](https://drive.google.com/file/d/1r55Vh--FNN5q7_GZJnSwU36Z8Xv0Xqv6/view)
 
 ❤️ Check out the latest app release for Tasks. [Click Here](https://github.com/HeckCodes/tasks-public/releases/)
 
