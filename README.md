@@ -21,6 +21,4 @@ A CSE undergraduate passionate about programming and app development :) [*RESUME
 ## Github stats
 
 <img src='https://komarev.com/ghpvc/?username=HeckCodes&color=blueviolet' />
-
-![HeckCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeckCodes&count_private=true&show_icons=true&theme=tokyonight)
 [![HeckCodes's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HeckCodes&theme=tokyonight)](https://git.io/streak-stats)
