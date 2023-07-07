@@ -3,6 +3,7 @@
 A CSE undergraduate passionate about programming and app development :) [*RESUME*](https://drive.google.com/file/d/1r55Vh--FNN5q7_GZJnSwU36Z8Xv0Xqv6/view)
 
 ❤️ Check out the latest app release for Tasks. [Click Here](https://github.com/HeckCodes/tasks-public/releases/)
+💜 Check out the latest app release for Animephilic. [Click Here](https://github.com/HeckCodes/animephilic/releases/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramauli-shastri)
 [![Instagram](https://img.shields.io/badge/Instagram-7D4698?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insides_voice)
