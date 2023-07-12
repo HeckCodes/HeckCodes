@@ -10,7 +10,7 @@ A CSE undergraduate passionate about programming and app development :) [*RESUME
 
 |❤️ Tasks [#](https://github.com/HeckCodes/tasks-public/releases/)|💜 Animephilic [#](https://github.com/HeckCodes/animephilic/releases/)|
 |---|---|
-|<img src="https://github.com/HeckCodes/tasks-public/blob/main/screenshots/main_screen/Screenshot_20220120-154426.png" width="200" alt="Add task dark mode">|<img src="https://github.com/HeckCodes/animephilic/blob/main/screenshots/home_recommendation.jpg" width="200" alt="home_recommendation">|
+|<img src="https://github.com/HeckCodes/tasks-public/blob/main/screenshots/main_screen/Screenshot_20220120-154426.png" width="200" alt="Add task dark mode">|<img src="https://github.com/HeckCodes/animephilic/blob/main/screenshots/home_recommendation.jpg#1" width="200" alt="home_recommendation">|
 
 ## Domain
 
