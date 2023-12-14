@@ -1,6 +1,6 @@
 # Hey there, I am *Heck Codes*
 
-A CSE undergraduate passionate about programming and app development :) [*WEBSITE*](heck-codes.web.app)
+A CSE undergraduate passionate about programming and app development :) [*WEBSITE*](https://heck-codes.web.app)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramauli-shastri)
 [![Instagram](https://img.shields.io/badge/Instagram-7D4698?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insides_voice)
