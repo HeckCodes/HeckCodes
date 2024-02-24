@@ -1,18 +1,19 @@
-# Hey there, I am *Heck Codes*
+Hi there! I'm HeckCodes, a final year Computer Science Engineering student with a passion for technology, programming, and innovation. Currently specializing in AI and robotics, I thrive on diving deep into the world of code and exploring its endless possibilities.
 
-A CSE undergraduate passionate about programming and app development :) [*WEBSITE*](https://heck-codes.web.app)
+My skill set spans across a variety of programming languages and technologies including C, C++, Python, R, Dart, Kotlin, and more. From building sleek mobile apps with Flutter to diving into the depths of data with TensorFlow and Keras, I love pushing the boundaries of what's possible.
 
+Feel free to explore my projects and repositories to see what I've been working on. Whether you're here to collaborate, learn, or simply share ideas, I'm excited to connect with fellow developers and enthusiasts like you!
+
+[![Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://heck-codes.web.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramauli-shastri)
-[![Instagram](https://img.shields.io/badge/Instagram-7D4698?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/insides_voice)
 
+## My favourite projects
 
-## Projects
-
-|❤️ Tasks [#](https://github.com/HeckCodes/tasks-public/releases/)|🧡 HeckPass [#](https://github.com/HeckCodes/passwordmanager/releases)|💜 Animephilic [#](https://github.com/HeckCodes/animephilic/releases/)|
+|Tasks [#](https://github.com/HeckCodes/tasks-public/releases/)|HeckPass [#](https://github.com/HeckCodes/passwordmanager/releases)|Animephilic [#](https://github.com/HeckCodes/animephilic/releases/)|
 |---|---|---|
 |<img src="https://github.com/HeckCodes/tasks-public/blob/main/screenshots/main_screen/Screenshot_20220120-154426.png" width="200" alt="Add task dark mode">|<img src="https://github.com/HeckCodes/passwordmanager/blob/main/screenshots/Screenshot_1708726955.png" width="200" alt="homepage">|<img src="https://github.com/HeckCodes/animephilic/blob/main/screenshots/home_recommendation.jpg#1" width="200" alt="home_recommendation">|
 
-## Domain
+## Things I know
 
 |Languages & Web|Frameworks & Libs|
 |---|---|
@@ -21,9 +22,3 @@ A CSE undergraduate passionate about programming and app development :) [*WEBSIT
 |ML, DL, AI|Cloud & DB|Others|
 |---|---|---|
 |![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)|![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![SqLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)|![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)|
-
-## Github stats
-
-<img src='https://komarev.com/ghpvc/?username=HeckCodes&color=blueviolet' />
-
-[![HeckCodes's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HeckCodes&theme=tokyonight)](https://git.io/streak-stats)
