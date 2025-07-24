@@ -4,7 +4,7 @@ My skill set spans across a variety of programming languages and technologies in
 
 Feel free to explore my projects and repositories to see what I've been working on. Whether you're here to collaborate, learn, or simply share ideas, I'm excited to connect with fellow developers and enthusiasts like you!
 
-[![Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://heck-codes.web.app)
+[![Website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.heckcodes.dev/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandramauli-shastri)
 
 ## My favourite projects
